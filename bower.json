@@ -1,0 +1,26 @@
+{
+  "name": "sdal",
+  "version": "1.1",
+  "authors": [
+    "Alberto Barradas <abcsds@gmail.com>"
+  ],
+  "description": "Affective dictionary of 25000 words in Spanish formatted in JSON",
+  "main": "index.js",
+  "keywords": [
+    "sentiment",
+    "Spanish",
+    "Español",
+    "sentimiento",
+    "agrado",
+    "activacion",
+    "imaginabilidad"
+  ],
+  "license": "CC BY 3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
