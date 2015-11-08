@@ -1,1 +1,9 @@
-csv
+.DS_Store
+*.log
+*.zip
+bower_components/
+build/
+components/
+data/AFINN/
+node_modules/
+coverage/
