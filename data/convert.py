@@ -1,6 +1,6 @@
 import json
 
-with open('meanAndStdev.csv', 'r') as infile:
+with open('orig.csv', 'r') as infile:
     lines = infile.readlines()
 
 with open('sdal.json', 'w') as outfile:
