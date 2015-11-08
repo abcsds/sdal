@@ -1,0 +1,36 @@
+{
+  "name": "sdal",
+  "version": "0.1.0",
+  "description": "Affective dictionary of 25000 words in Spanish formatted in JSON",
+  "author": "Alberto Barradas <abcsds@gmail.com>",
+  "main": "sdal.json",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/abcsds/sdal"
+},
+  "bugs": {
+  "url": "https://github.com/abcsds/sdal/issues"
+},
+"keywords": [
+  "sentiment",
+  "Spanish",
+  "Español",
+  "sentimiento",
+  "agrado",
+  "activacion",
+  "imaginabilidad",
+  "anew",
+  "sdal",
+  "word",
+  "list",
+  "sentiment",
+  "analysis",
+  "opinion",
+  "mining",
+  "text",
+  "microblogs"
+],
+  "preferGlobal": false,
+  "private": false,
+  "license": "MIT"
+}
