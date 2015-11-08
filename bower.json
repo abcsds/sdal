@@ -2,8 +2,6 @@
   "name": "sdal",
   "version": "0.1.0",
   "authors": [
-    "Agustín Gravano <digital@bl.fcen.uba.ar>"
-    "Matías G Dell’Amerlina Ríos"
     "Alberto Barradas <abcsds@gmail.com>"
   ],
   "description": "Affective dictionary of 25000 words in Spanish formatted in JSON",
