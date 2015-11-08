@@ -17,6 +17,10 @@
     "activacion",
     "imaginabilidad"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abcsds/sdal"
+  },
   "license": "CC BY 3.0",
   "ignore": [
     "**/.*",
