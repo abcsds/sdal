@@ -1,6 +1,6 @@
 {
   "name": "sdal",
-  "version": "1.1",
+  "version": "0.1.0",
   "authors": [
     "Agustín Gravano <digital@bl.fcen.uba.ar>"
     "Matías G Dell’Amerlina Ríos"
@@ -15,7 +15,17 @@
     "sentimiento",
     "agrado",
     "activacion",
-    "imaginabilidad"
+    "imaginabilidad",
+    "anew",
+    "sdal",
+    "word",
+    "list",
+    "sentiment",
+    "analysis",
+    "opinion",
+    "mining",
+    "text",
+    "microblogs"
   ],
   "repository": {
     "type": "git",
