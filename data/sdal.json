@@ -2878,6 +2878,5 @@
 "contento":{"obj": "A", "activation": "0.4", "p_sdev": "0.0000", "imagination": "1.0", "a_sdev": "0.8944", "i_sdev": "0.0000", "pleasantness": "1.0"},
 "administrativo":{"obj": "N", "activation": "0.4", "p_sdev": "0.4472", "imagination": "0.2", "a_sdev": "0.8944", "i_sdev": "0.8367", "pleasantness": "-0.2"},
 "taxi":{"obj": "N", "activation": "0.8", "p_sdev": "0.0000", "imagination": "1.0", "a_sdev": "0.4472", "i_sdev": "0.0000", "pleasantness": "0.0"},
-"petición":{"obj": "N", "activation": "0.8", "p_sdev": "0.0000", "imagination": "0.0", "a_sdev": "0.4472", "i_sdev": "1.0000", "pleasantness": "0.0"},
-
+"petición":{"obj": "N", "activation": "0.8", "p_sdev": "0.0000", "imagination": "0.0", "a_sdev": "0.4472", "i_sdev": "1.0000", "pleasantness": "0.0"}
 }
