@@ -1,5 +1,6 @@
 # SDAL
 ## Spanish Dictionary of Affect in Language
+Current SDAL version: 1.2 - Sep 24, 2015
 
 SDAL is a dictionary of 2500 words that have been scored on three affective dimentions:
 
